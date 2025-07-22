@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+numpy
+pandas
+nltk
+spacy
+joblib
+# Optional for embeddings:
+gensim           # for FastText (if using gensim’s FastText)
+transformers     # for BERT (Hugging Face)
+torch            # if fine-tuning BERT
