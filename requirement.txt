@@ -9,3 +9,4 @@ joblib
 gensim           # for FastText (if using gensim’s FastText)
 transformers     # for BERT (Hugging Face)
 torch            # if fine-tuning BERT
+__pycache__
